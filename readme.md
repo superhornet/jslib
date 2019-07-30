@@ -11,6 +11,7 @@ gulp
 ```
 npm t
 npm run testWithCoverage
+
 ```
 
 ## Generate Documentation
