@@ -3,10 +3,9 @@ pipeline{
     stages{
         stage("A"){
             steps{
-                step{
                     echo "====++++executing A++++===="
                     sh 'java -version'
-                }
+
             }
             post{
                 always{
