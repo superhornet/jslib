@@ -7,6 +7,11 @@ sass --watch src/scss:dist/css
 ```
 gulp
 ```
+## Tests
+```
+npm t
+npm run testWithCoverage
+```
 
 ## Generate Documentation
 ```
