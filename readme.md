@@ -1,5 +1,14 @@
-List of local dev sites
+## CSS Preprocessor (SASS)
+```
+sass --watch src/scss:dist/css
+```
 
-#Intake Desk Dev
-* [default](https://localhost)
-* [dev.test](https://localdev.test)
+## Transpiler (Typescript)
+```
+gulp
+```
+
+## Generate Documentation
+```
+npx typedoc --out docs ./src
+```
